@@ -1,3 +1,9 @@
+cppunit (1.15.1-4deepin0) unstable; urgency=medium
+
+  * No source change upload against GCC 12.
+
+ -- Tianyu Chen <sweetyfish@deepin.org>  Thu, 19 Sep 2024 22:44:20 +0800
+
 cppunit (1.15.1-4) unstable; urgency=medium
 
   * debian/patches/patches/run-tests-in-deterministic-order.diff: apply
